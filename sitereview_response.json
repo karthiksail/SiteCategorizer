@@ -1,0 +1,33 @@
+{
+    "url": "https://www.quora.com:443/",
+    "unrated": false, 
+    "curTrackingId": 1207472, 
+    "locked": false, 
+    "lockedMessage": null, 
+    "lockedSpecialNote": null, 
+    "multiple": false, 
+    "multipleMessage": null, 
+    "rateDate": "Last Time Rated/Reviewed: > {{days}} days {{legacy}}The URL submitted for review was rated more than {{days}} days ago.  The default setting for Symantec SG clients to download rating changes is once a day.  There is noneed to show ratings older than this. Since Symantec's desktop client K9 and certain OEM partners update differently, ratings may differ fromthose of a Symantec SG as well as those present on the Site Review Tool.", 
+    "categorization": [
+                            {
+                                "num": 53, 
+                                "name": "Newsgroups/Forums"
+                            }, 
+                            {
+                                "num": 49, 
+                                "name": "Reference"
+                            }
+                        ], 
+    "threatriskLevel": "", 
+    "threatriskLevelEn": "", 
+    "linkable": true, 
+    "securityCategory": false, 
+    "securityCategoryIds": [], 
+    "suggestion": null, 
+    "resolvedDetail": {
+                            "resolveEnabled": true, 
+                            "ipAddress": "3.222.111.119"
+                        }, 
+    "followedUrl": null, 
+    "ratingDts": "OLDER", 
+    "ratingDtsCutoff": 7}
